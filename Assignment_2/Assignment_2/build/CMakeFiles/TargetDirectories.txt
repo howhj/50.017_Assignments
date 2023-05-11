@@ -1,0 +1,5 @@
+/home/aria/Downloads/sutd/GV/To Do/Assignment_2/build/CMakeFiles/source_lib.dir
+/home/aria/Downloads/sutd/GV/To Do/Assignment_2/build/CMakeFiles/GLAD.dir
+/home/aria/Downloads/sutd/GV/To Do/Assignment_2/build/CMakeFiles/Assignment_2.dir
+/home/aria/Downloads/sutd/GV/To Do/Assignment_2/build/CMakeFiles/edit_cache.dir
+/home/aria/Downloads/sutd/GV/To Do/Assignment_2/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/home/aria/Downloads/sutd/GV/W3/Assignment 1/Assignment_1/build/CMakeFiles/GLAD.dir
+/home/aria/Downloads/sutd/GV/W3/Assignment 1/Assignment_1/build/CMakeFiles/Assignment_1.dir
+/home/aria/Downloads/sutd/GV/W3/Assignment 1/Assignment_1/build/CMakeFiles/edit_cache.dir
+/home/aria/Downloads/sutd/GV/W3/Assignment 1/Assignment_1/build/CMakeFiles/rebuild_cache.dir
